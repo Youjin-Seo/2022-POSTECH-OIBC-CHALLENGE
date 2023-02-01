@@ -2,7 +2,7 @@
 
 [](http://competition.postech.ac.kr/)
 
-[김태양O](https://o.solarkim.com/cmpt2022)
+[김태양 : API](https://o.solarkim.com/cmpt2022)
 
 [DERShare Platform Open Process Platform API - Reference Documents](https://research-api.solarkim.com/docs#tag/Competition-2022)
 
@@ -37,6 +37,8 @@
 
 순위 판단 : 구간 예측 정확도 기반
 1. 실제 발전량이 구간 내에 포함
-2. 예측 등록 범위가 좁고
-3. 구간 평균이 실제 발전량과 가깝
-4. 정확도 높
+2. 예측 등록 범위가 좁을수록
+3. 구간 평균이 실제 발전량과 가까울수록
+4. 정확도 높을수록
+
+
