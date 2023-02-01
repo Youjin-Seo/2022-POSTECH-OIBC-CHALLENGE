@@ -1,6 +1,6 @@
 # 2022-POSTECH-OIBC-CHALLENGE
 
-[](http://competition.postech.ac.kr/)
+[2022-POSTECH-OBIC-CHALLENGE](http://competition.postech.ac.kr/)
 
 [김태양 : API](https://o.solarkim.com/cmpt2022)
 
